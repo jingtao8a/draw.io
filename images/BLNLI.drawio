@@ -370,7 +370,7 @@
         <mxCell id="g1Dt68nagMTFg1dU7cTH-256" value="key" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="469" y="460" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g1Dt68nagMTFg1dU7cTH-261" value="" style="swimlane;startSize=0;dashed=1;strokeColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="g1Dt68nagMTFg1dU7cTH-261" value="" style="swimlane;startSize=0;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-41" y="100" width="571" height="550" as="geometry" />
         </mxCell>
         <mxCell id="g1Dt68nagMTFg1dU7cTH-264" value="&lt;b&gt;BLNLI FRAMEWORK&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="g1Dt68nagMTFg1dU7cTH-261" vertex="1">
@@ -380,7 +380,7 @@
           <mxGeometry x="305" y="70" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="g1Dt68nagMTFg1dU7cTH-171" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;rotation=-90;dashed=1;" parent="g1Dt68nagMTFg1dU7cTH-261" vertex="1">
-          <mxGeometry x="354.22" y="55.78" width="20" height="48.44" as="geometry" />
+          <mxGeometry x="350.77" y="56.45" width="20" height="47.11" as="geometry" />
         </mxCell>
         <mxCell id="g1Dt68nagMTFg1dU7cTH-158" value="" style="swimlane;startSize=0;dashed=1;" parent="g1Dt68nagMTFg1dU7cTH-261" vertex="1">
           <mxGeometry x="221" y="305" width="120" height="30" as="geometry">
