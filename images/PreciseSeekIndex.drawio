@@ -107,7 +107,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-iafAgUyxtiORims013v-63" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-413" y="145" width="793" height="495" as="geometry" />
+          <mxGeometry x="-413" y="150" width="793" height="490" as="geometry" />
         </mxCell>
         <mxCell id="68D77G-YltVPRNcm6hVA-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;PreciseSeekIndex&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-360" y="190" width="159.5" height="30" as="geometry" />
